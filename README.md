@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**chaseydev/chaseydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Chasey! 👋
 
-Here are some ideas to get you started:
+I am a software engineer passionate about creating solutions to modern day problems through software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Currently working as a Software Engineer in FactSet
+- 🌱 Currently learning ReactJS and Django
+- 👯 Looking to collaborate on real-world problem solving applications
+- 💬 Ask me about how we can use code to turn your ideas into reality
+- 📫 How to reach me: chaseysison.dev@gmail.com
+
+## 🔗 Links
+
+- [Portfolio Website](https://chaseydev.github.io)
+- [LinkedIn](https://www.linkedin.com/in/chaserylle-sison/)
+
+<!-- ## 📈 My GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chaseydev&show_icons=true&theme=radical)](https://github.com/chaseydev) -->
+
+## 🛠️ Technologies & Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaseydev&layout=compact&theme=radical)](https://github.com/chaseydev)
+
