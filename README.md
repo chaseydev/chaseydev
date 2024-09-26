@@ -2,7 +2,7 @@
 
 # Hi there, I'm Chasey! 👋
 
-I am a software engineer passionate about creating solutions to modern day problems through software engineering.
+I am a software engineer passionate about creating solutions to modern day problems through coding.
 
 ## 🚀 About Me
 
