@@ -6,8 +6,7 @@ I am a software engineer passionate about creating solutions to modern day probl
 
 ## 🚀 About Me
 
-- 💼 Currently working as a Software Engineer in FactSet
-- 🌱 Currently learning ReactJS and Django
+- 💼 Currently working as a Data Engineer in BTG
 - 👯 Looking to collaborate on real-world problem solving applications
 - 💬 Ask me about how we can use code to turn your ideas into reality
 - 📫 How to reach me: chaseysison.dev@gmail.com
